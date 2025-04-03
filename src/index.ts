@@ -4,7 +4,7 @@ import { Hono } from 'hono'
 const app = new Hono()
 
 app.get('/platform', (c) => {
-  return c.json({platform:'SIT Students'})
+  return c.json({platform:process.platform})
 })
 
 app.get('/college', (c) => {
