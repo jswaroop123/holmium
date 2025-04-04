@@ -30,10 +30,10 @@ lerna-debug.log*
 # #Luo8Q~jpVJafkOuB2XtfZ3ZyLt3XYMhOr4PmLaII value
 # #038185ae-ff0a-41ce-ae14-19d11c692c21 SID
 # # 1fae8206-414a-4b5d-abc0-05e26c97536f TelnetID
-# # d44a1b4c-1658-4036-95e1-b43fa02 Subscription ID
+# # # d44a1b4c-1658-4036-95e1-b43fa02 Subscription ID
 # {
 #     "clientSecret":  "Luo8Q~jpVJafkOuB2XtfZ3ZyLt3XYMhOr4PmLaII",
-#     "subscriptionId":  "d44a1b4c-1658-4036-95e1-b43fa02",
+#     "subscriptionId":  "d44a1b4c-1658-4036-95e1-b43fa02acc91",
 #     "tenantId":  "1fae8206-414a-4b5d-abc0-05e26c97536f ",
 #     "clientId":  "2cbda007-39e1-4fe7-899e-748e13d475a9"
 # }
